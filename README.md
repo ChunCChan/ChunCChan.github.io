@@ -1,8 +1,7 @@
 ## Welcome to Chun Chung Chan's personal portfolio.
 
-### Background
-I recently graduated from University of California - San Diego with a Bachelor degree in Mathematics and Computer Science. 
-My course works range from lower division microbiology, chemistry, physics, calculus, through upper divison computation theory, 
-computer graphic, probability theory, graph theory, exposure to machine learning and image processing, all to way to graduate course in animation and physic simulation. 
-I have also joined the UCSD undergraduate research program. From this program, I have learnt the valuable skill of conducting research.  All of my knowledges are combined toward 
-one purpose: to recreate reality in a simulated envirnoment.
+### Introduction
+I recently graduated from University of California - San Diego with a Bachelor degree in Mathematics and Computer Science. My course works range from lower division microbiology, chemistry, physics, calculus, through upper divison computation theory, computer graphic, probability theory, graph theory, exposure to machine learning and image processing, all to way to graduate course in animation and physic simulation. I have also joined the UCSD undergraduate research program. From this program, I have learnt the valuable skill of conducting research. All of my knowledges are combined toward one purpose: to recreate reality in a simulated envirnoment. I strongly believe that in our near fufure, artificial intelligence and augment reality can integrate into our society homogenously, erasing the boundary of what is real.
+
+### More about me as a Person
+I am a logical person. Perhaps too logical. I often try to convert everything into number in a utilitarianism way. I love everything that can be expressed in logical expression, like math and code. This doesn't mean I am a boring person (at least I don't think myself being too boring). I enjoy traveling. Seeing human cultural heritage put a warmth feeling into my heart as to how far our civilization has come. I also like gaming. I have poor reaction time so I often play games that are much more strategic, like Total War and World of Warships. I like watching anime also. Clannad is my favorite as it tells a beautiful story of family bond.
