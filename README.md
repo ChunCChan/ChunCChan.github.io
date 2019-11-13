@@ -34,3 +34,5 @@ Catmull Rom, bezier and B-sphine.
 Skeleton, skinning, rigging, morphing, keyframe extrapolation, inverse kinematics.
 
 Spring particle system of cloth simulation.
+
+Ray tracing, radiosity, MSAA, depth of field, motion blur.
