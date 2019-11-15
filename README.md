@@ -44,3 +44,4 @@ When I was in UCSD, I explored into particle simulation. My first project in par
 
 After I have learnt the basic of computer graphic, I began to study current simulation topics, such as finite element analysis, decrete element method, finite volume method, and smooth particle hydrodynamics. (Example of water tank simulation I have done https://github.com/ChunCChan/ChunCChan.github.io/blob/master/Water%20Tank.mp4)
 
+In particular, my project on evaporation and condensation is an extremely deep dive for me in particle simulation. 
