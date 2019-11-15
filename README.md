@@ -36,3 +36,6 @@ Skeleton, skinning, rigging, morphing, keyframe extrapolation, inverse kinematic
 Spring particle system of cloth simulation.
 
 Ray tracing, radiosity, MSAA, depth of field, motion blur.
+
+### Particle simulation
+When I was in UCSD, I explored into particle simulation. My first project in particle system is an extension to my course project in computer graphic. In this project, Cherry Blossom, is a real time scene that generated 10,000+ flowers on a tree, with each petal having their own movement. The flowers are randomly generated on the tree with a distribution that form a hollow half sphere on the tree. For each frame, random petals will be dequeued and begin falling from the tree. During the fall, the petals will perform collision check against the tree and "avoid" it with a force pushing the petals to the side using the tangent vector. In order to generate large amount of particle, an OpenGL technique call instancing is used to reduce the number of draw call to only once.
