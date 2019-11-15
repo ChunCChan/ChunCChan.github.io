@@ -42,4 +42,5 @@ When I was in UCSD, I explored into particle simulation. My first project in par
 
 ![Cherry Bloosom](https://github.com/ChunCChan/ChunCChan.github.io/blob/master/Project_30%25.png)
 
-After I have learnt the basic of computer graphic, I began to study current simulation topics, such as finite element analysis, decrete element method, finite volume method, and smooth particle hydrodynamics.
+After I have learnt the basic of computer graphic, I began to study current simulation topics, such as finite element analysis, decrete element method, finite volume method, and smooth particle hydrodynamics. (Example of water tank simulation I have done https://github.com/ChunCChan/ChunCChan.github.io/blob/master/Water%20Tank.mp4)
+
